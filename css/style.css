@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+   /* background: #FFBE0E;*/
+}
+
+header {
+    color: black;
+
+}
+
+#home {
+    background: #ffc107;
+    color: white;
+}
+
+.caixa {
+    padding: 60px 0px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+
+    margin: 5px 15px;
+}
+
+
+/*
+#logo {
+    float: left;
+}
+
+nav {
+    float: right;
+    margin-right: 50px;
+}
+
+button {
+    float: left;
+}
+
+*/
